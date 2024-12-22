@@ -8,6 +8,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [My Process](#my-process)
 - [Created With](#created-with)
 - [What I Learned](#what-i-learned)
+
+![Captura de pantalla 2024-12-22 160737](https://github.com/user-attachments/assets/d22fe907-4dcf-4402-87da-ff9eb54064f5)
  
 
 ## Overview
